@@ -3,7 +3,5 @@ Welcome to my Ticket management System project! This is a static web page built 
 
 # How to Use
 1.Clone this repository to your local machine or download the ZIP file.
-
 2. Open the index.html file in your web browser.
-
 3.Explore the Ticket Management system interface.
